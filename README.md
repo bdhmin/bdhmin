@@ -5,7 +5,7 @@
 - 💻 Check out my [Personal Website](https://bryanmin.me)
 - 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/bryanmin/)
 - What am I doing right now? I dunno, probably building a web app and listening to [a LoFi playlist](https://open.spotify.com/playlist/5jqxOJJ0Hjdqd8KCddH9cY?si=cd89e18fec35484f)
-- Maybe some League of Legends :D
+- ... and maybe some League of Legends :D
 
 
 
