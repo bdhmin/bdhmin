@@ -1,10 +1,9 @@
 # Hi! I'm Bryan
 
-### CS @ [UCSD](https://ucsd.edu), Web Dev @ [Tech4Good Labs](https://tech4good.soe.ucsc.edu/#/)
+### CS @ [UCSD](https://ucsd.edu), Web Dev & Research @ [Tech4Good Labs](https://tech4good.soe.ucsc.edu/#/)
 
 - 💻 Check out my [Personal Website](https://bryanmin.me)
 - 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/bryanmin/)
-- What am I doing right now? Probably working on a web app and listening to [a LoFi playlist](https://open.spotify.com/playlist/5jqxOJJ0Hjdqd8KCddH9cY?si=cd89e18fec35484f)
 
 
 
