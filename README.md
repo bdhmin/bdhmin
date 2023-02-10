@@ -1,6 +1,6 @@
 # Hi! I'm Bryan
 
-### CS @ [UCSD](https://ucsd.edu), Web Dev & Research @ [Tech4Good Lab](https://tech4good.soe.ucsc.edu/#/)
+### CS @ [UCSD](https://ucsd.edu), Web Dev & Research @ [The Creativity Lab](https://creativity.ucsd.edu/)
 
 - 💻 Check out my [Personal Website](https://bryanmin.me)
 - 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/bryanmin/)
