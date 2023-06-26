@@ -1,9 +1,10 @@
 # Hi! I'm Bryan
 
-### CS @ [UCSD](https://ucsd.edu), Research @ [Creativity Lab](https://creativity.ucsd.edu/)
+### Research @ [Creativity Lab](https://creativity.ucsd.edu/), CS @ [UCSD](https://ucsd.edu)
 
-- 💻 Check out my [Personal Website](https://bryanmin.me)
-- 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/bryanmin/)
+- [Personal Website](https://bryanmin.me)
+- [LinkedIn](https://www.linkedin.com/in/bryanmin/)
+- [Twitter](https://twitter.com/bdhmin/)
 
 
 
