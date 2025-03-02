@@ -1,6 +1,6 @@
 # Hi! I'm Bryan
 
-### Research @ [Creativity Lab](https://creativity.ucsd.edu/), CS @ [UCSD](https://ucsd.edu)
+### CogSci PhD @ [UCSD](https://ucsd.edu), HCI Research @ [Foundation Interface Lab](https://creativity.ucsd.edu/)
 
 - [Personal Website](https://bryanmin.me)
 - [LinkedIn](https://www.linkedin.com/in/bryanmin/)
